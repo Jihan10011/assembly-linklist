@@ -19,7 +19,7 @@
 if you're in termux or your current architecture is aarch64.
 You can just  run this command to compile it
 ```bash
-gcc -o linklist linklist.s
+gcc -o linklist linklist.s 
 ```
 
 
